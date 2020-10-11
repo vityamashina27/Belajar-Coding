@@ -16,3 +16,13 @@ Run dengan membuka browser kalian lalu ketik url
 ```
 
 Beginner Note : Saya sudah memberikan comment pada beberapa code yg rumit supaya lebih dimengerti.
+
+### Referensi Code
+[Installasi Express](https://medium.com/@nima.2004hkh/create-your-first-login-page-with-exprerssjs-pug-f42250229486)
+<br>
+[PugJS](https://pugjs.org/)
+<br>
+Link ini bukan referensi tapi bagus untuk [Mengenal Pug Html](https://pughtml.com/)
+
+# Terimakasih! 
+Semoga Bermanfaat
